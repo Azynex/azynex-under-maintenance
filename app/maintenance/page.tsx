@@ -78,7 +78,7 @@ export default function MaintenancePage() {
             >
               <title id="maintenance-illustration">
                 Construction and maintenance scene with crane, tools, and
-                workers
+                workers.
               </title>
 
               {/* Background elements */}
