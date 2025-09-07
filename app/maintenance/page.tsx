@@ -264,7 +264,10 @@ export default function MaintenancePage() {
 
               <g
                 className="animate-gear"
-                style={{ animationDirection: "reverse", animationDelay: "1s" }}
+                style={{
+                  animationDirection: "reverse",
+                  animationDelay: "1s",
+                }}
               >
                 <circle
                   cx="330"
@@ -353,7 +356,7 @@ export default function MaintenancePage() {
         </div>
       </div>
 
-      <footer className="absolute bottom-0 left-0 w-full p-6 text-center">
+      <footer className=" text-center mt-auto">
         <p className="text-sm text-[#475569] dark:text-slate-400">
           © Azynex. We'll be back shortly. Thank you for your patience.
         </p>
